@@ -1,0 +1,46 @@
+header{
+    background-color:wheat;
+    width:74%;
+    margin:auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center
+}
+
+.a{
+    background-color:khaki;
+    width: 74%;
+    margin: auto;
+    overflow: hidden;
+    padding-bottom: 10px;
+        
+}
+
+nav ul{
+    list-style-type: none
+}
+nav li{
+    margin-right:24px;
+    float:left
+}
+.left{
+    width:28%;
+    background-color:antiquewhite;
+    height:950px;
+    margin-left:13%;
+    float: left;
+    font-size: 20px;
+    
+}
+.right{
+    width:46%;
+    background-color:beige;
+    height: 950px;
+    margin-right:13%;
+    float:right;
+    font-size: 20px;
+}
+table,th,td{
+    
+    border-collapse: collapse;
+}
